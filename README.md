@@ -25,14 +25,14 @@ A lightweight Java-based auto-clicker with a GUI and global hotkey support, buil
 1. Clone or download the Github repository
     git clone https://github.com/ghawkins17/AutoClicker.git
 
-2. Navigate to the project folder
-    cd AutoClicker
+2. Navigate to the release folder
+    cd AutoClicker/release
 
-3. Compile the program
-    javac -cp "lib/jnativehook-2.2.2.jar" AutoClicker.java
+3. Run the fat JAR
+    javac -jar AutoClicker.jar
 
-4. Run
-    java -cp "lib/jnativehook-2.2.2.jar" AutoClicker.java
+4. Stop
+    Use F6 to start/stop clicking and press ESC or close the window to exit.
 
 
 Created for educational purposes. Use responsibly.
