@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="src" path="." />
+    <classpathentry kind="lib" path="jnativehook-2.2.2.jar" />
+    <classpathentry kind="output" path="bin" />
+</classpath>
